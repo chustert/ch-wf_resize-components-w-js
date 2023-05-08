@@ -5,5 +5,5 @@ window.addEventListener("load", () => {
 
 window.addEventListener("resize", () => {
   console.log("View height on resize:", window.innerHeight);
-  console.log("View height on resize:", window.innerWidth);
+  console.log("View width on resize:", window.innerWidth);
 });
